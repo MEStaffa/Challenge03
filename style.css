@@ -1,0 +1,37 @@
+p{
+   font-size: 15px;
+   margin: 0;
+   position: absolute;
+   top: 35%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+
+}
+.tricky {
+   margin: 0;
+   position: absolute;
+   top: 75%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.reset{
+   margin: 0;
+   position: absolute;
+   top: 10%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.counter{
+   margin: 0;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+
+}
+
+#total{
+   font-size: 15px;
+}
